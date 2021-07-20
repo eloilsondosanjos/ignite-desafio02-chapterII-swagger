@@ -1,5 +1,3 @@
-import { request, response } from "express";
-
 import { User } from "../../model/User";
 import { IUsersRepository, ICreateUserDTO } from "../IUsersRepository";
 
